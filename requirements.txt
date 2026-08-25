@@ -1,0 +1,13 @@
+# Core data processing and machine learning
+pyspark==3.5.1
+scikit-learn
+pandas
+numpy
+
+# Data visualisation
+matplotlib
+seaborn
+
+# Jupyter Notebook
+jupyter
+ipykernel
